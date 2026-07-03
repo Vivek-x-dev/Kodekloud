@@ -1,4 +1,4 @@
-# Task 3 – Disable Direct SSH Root Login (All App Servers)
+# Day 3 – Disable Direct SSH Root Login (All App Servers)
 
 ## Objective
 Enforce the new security protocol by preventing `root` from logging in directly via SSH on all application servers in the Stratos Datacenter.
