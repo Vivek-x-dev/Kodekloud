@@ -20,7 +20,7 @@ ls -l /tmp/xfusioncorp.sh
 
 then
 
-sudo chmod a+x /tmp/xfusioncorp.sh
+sudo chmod a+rx /tmp/xfusioncorp.sh
 ```
 ### then verify again and all set 
 ```bash
