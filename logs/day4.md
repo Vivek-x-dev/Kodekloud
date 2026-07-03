@@ -1,4 +1,4 @@
-# Task 4 – Grant Execute Permissions to Backup Script (App Server 2)
+# Day 4 – Grant Execute Permissions to Backup Script (App Server 2)
 
 ## Objective
 Make the script `/tmp/xfusioncorp.sh` executable by all users on App Server 2 to enable automated backup processes.
